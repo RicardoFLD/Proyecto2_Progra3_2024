@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Alarma", "Proyecto_Alarma\Proyecto_Alarma.csproj", "{853EC19E-0849-4337-BF37-BAD506644F30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853EC19E-0849-4337-BF37-BAD506644F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853EC19E-0849-4337-BF37-BAD506644F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853EC19E-0849-4337-BF37-BAD506644F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853EC19E-0849-4337-BF37-BAD506644F30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD2772D-6840-4D6E-B6CD-CBC4A48C304E}
+	EndGlobalSection
+EndGlobal
